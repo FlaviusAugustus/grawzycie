@@ -22,6 +22,3 @@ for row in user_input:
 
     output.append(row_output)
 
-print(output)
-
-print(int(True))
